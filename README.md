@@ -2,6 +2,13 @@
 
 这是我学习 [FastAPI](https://fastapi.tiangolo.com/) 的练习项目，所有练习代码都会放在这里。
 
+## 课程资料
+
+跟随黑马程序员《PythonWeb开发：FastAPI从入门到实战》视频教程学习：
+
+- B 站链接：<https://www.bilibili.com/video/BV1zV2QBtE39/>
+- 课程涵盖：路由、依赖注入、Pydantic、异步编程、ORM、项目拆分、模型训练、部署、接口测试
+
 ## 环境要求
 
 - Python 3.8+
@@ -47,10 +54,12 @@ uvicorn main:app --reload
 ## 学习进度
 
 - [x] 创建第一个 FastAPI 应用
-- [ ] 路径参数与查询参数
-- [ ] 请求体（Pydantic 模型）
-- [ ] 数据校验与错误处理
+- [ ] 路由（路径参数、查询参数）
+- [ ] Pydantic 数据模型
 - [ ] 依赖注入
-- [ ] 数据库集成（SQLAlchemy）
-- [ ] 用户认证（OAuth2 / JWT）
-- [ ] 部署上线
+- [ ] 异步编程
+- [ ] ORM 数据库集成
+- [ ] 项目拆分
+- [ ] 模型训练
+- [ ] 部署
+- [ ] 接口测试
