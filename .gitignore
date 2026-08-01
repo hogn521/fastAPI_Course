@@ -1,2 +1,5 @@
 # IDE的文件
 .idea
+
+# Pycharm中的mcp配置
+.mcp.json
